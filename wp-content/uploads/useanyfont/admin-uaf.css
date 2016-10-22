@@ -1,0 +1,19 @@
+			@font-face {
+				font-family: 'walsheim-bold';
+				font-style: normal;
+				src: url('//blog.treble.fm/wp-content/uploads/useanyfont/151218060837walsheim-bold.eot');
+				src: local('walsheim-bold'), url('//blog.treble.fm/wp-content/uploads/useanyfont/151218060837walsheim-bold.eot') format('embedded-opentype'), url('//blog.treble.fm/wp-content/uploads/useanyfont/151218060837walsheim-bold.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'walsheim-light';
+				font-style: normal;
+				src: url('//blog.treble.fm/wp-content/uploads/useanyfont/151218060942walsheim-light.eot');
+				src: local('walsheim-light'), url('//blog.treble.fm/wp-content/uploads/useanyfont/151218060942walsheim-light.eot') format('embedded-opentype'), url('//blog.treble.fm/wp-content/uploads/useanyfont/151218060942walsheim-light.woff') format('woff');
+			}
+					@font-face {
+				font-family: 'walsheim-medium';
+				font-style: normal;
+				src: url('//blog.treble.fm/wp-content/uploads/useanyfont/151218061128walsheim-medium.eot');
+				src: local('walsheim-medium'), url('//blog.treble.fm/wp-content/uploads/useanyfont/151218061128walsheim-medium.eot') format('embedded-opentype'), url('//blog.treble.fm/wp-content/uploads/useanyfont/151218061128walsheim-medium.woff') format('woff');
+			}
+		
